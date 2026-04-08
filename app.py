@@ -118,7 +118,7 @@ def main():
         "Candidate Ranking",
         "Explainability",
         "About Project",
-        "Logout"
+    
     ]
     
     current_page = create_sidebar_navigation(pages)
@@ -583,30 +583,6 @@ def main():
         st.markdown("### Detailed Explanation")
         explanation = generate_explanation_text(selected_match, selected_job)
         st.markdown(explanation)
-    
-    elif current_page == "Logout":
-        st.header("Logout")
-        
-        st.markdown("### Are you sure you want to logout?")
-        
-        col1, col2, col3 = st.columns([1, 1, 1])
-        
-        with col2:
-            if st.button("Yes, Logout", type="primary", use_container_width=True):
-                st.session_state['logged_in'] = False
-                # Reset to home page
-                st.session_state['page'] = "Home"
-                # Clear all session state
-                if 'matches' in st.session_state:
-                    del st.session_state['matches']
-                if 'selected_job' in st.session_state:
-                    del st.session_state['selected_job']
-                st.success("Logged out successfully!")
-                time.sleep(0.5)
-                st.rerun()
-            
-            if st.button("Cancel", use_container_width=True):
-                st.info("Logout cancelled")
     
     elif current_page == "About Project":
         st.header("About Smart-Hiring Project")
