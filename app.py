@@ -98,55 +98,7 @@ def load_job_descriptions():
             return json.load(f)
     return []
 
-def check_login():
-    """Check if user is logged in"""
-    if 'logged_in' not in st.session_state:
-        st.session_state['logged_in'] = False
-    return st.session_state['logged_in']
-
-def login_page():
-    """Display login page"""
-    apply_custom_styles()
-    
-    st.markdown(
-        '<h1 class="styled-title">Smart-Hiring System</h1>',
-        unsafe_allow_html=True
-    )
-    st.markdown(
-        '<p class="subtitle">Please login to continue</p>',
-        unsafe_allow_html=True
-    )
-    
-    st.markdown("---")
-    
-    col1, col2, col3 = st.columns([1, 2, 1])
-    
-    with col2:
-        st.markdown("### Login")
-        
-        username = st.text_input("Username", placeholder="Enter username")
-        password = st.text_input("Password", type="password", placeholder="Enter password")
-        
-        st.markdown("")
-        
-        if st.button("Login", type="primary", use_container_width=True):
-            # Hardcoded credentials
-            if username == "admin" and password == "admin123":
-                st.session_state['logged_in'] = True
-                st.success("Login successful!")
-                time.sleep(0.5)
-                st.rerun()
-            else:
-                st.error("Invalid username or password")
-        
-        st.markdown("---")
-        # st.info(" **Demo Credentials:**\n\nUsername: `admin`\n\nPassword: `admin123`")
-
 def main():
-    # Check login status
-    if not check_login():
-        login_page()
-        return
     
     apply_custom_styles()
     
