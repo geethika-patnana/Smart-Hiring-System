@@ -123,7 +123,7 @@ streamlit run app.py
 
 ---
 
-## 📊 Results & Performance
+**## 📊 Results & Performance**
 
 - Reduced manual resume screening time
 - Improved candidate-job matching accuracy
