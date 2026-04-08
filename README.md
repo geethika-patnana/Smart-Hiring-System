@@ -109,9 +109,9 @@ Smart-Hiring automates the initial screening process while maintaining transpare
 
 ## � Installation
 
-pip install -r requirements.txt
-python -m spacy download en_core_web_sm
-streamlit run app.py
+-pip install -r requirements.txt
+-python -m spacy download en_core_web_sm
+-streamlit run app.py
 
 ---
 
