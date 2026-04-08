@@ -1,0 +1,214 @@
+{
+  "job_title": "Data Scientist",
+  "total_candidates": 8,
+  "ranked_candidates": [
+    {
+      "candidate_name": "John Smith",
+      "overall_score": 89.92,
+      "component_scores": {
+        "skills": 79.83,
+        "experience": 100.0,
+        "education": 100.0,
+        "location": 100.0
+      },
+      "candidate_data": {
+        "email": "john.smith@email.com",
+        "phone": "+1-555-0101",
+        "skills": [
+          "Python",
+          "R",
+          "Machine Learning",
+          "TensorFlow",
+          "Docker",
+          "Data Analysis",
+          "AWS",
+          "SQL"
+        ],
+        "education": "Master",
+        "experience_years": 5
+      }
+    },
+    {
+      "candidate_name": "Emily Davis",
+      "overall_score": 81.52,
+      "component_scores": {
+        "skills": 84.04,
+        "experience": 100.0,
+        "education": 100.0,
+        "location": 30.0
+      },
+      "candidate_data": {
+        "email": "emily.davis@email.com",
+        "phone": "+1-555-0104",
+        "skills": [
+          "Python",
+          "Big Data",
+          "R",
+          "Spark",
+          "Statistical Analysis",
+          "SQL"
+        ],
+        "education": "Master",
+        "experience_years": 4
+      }
+    },
+    {
+      "candidate_name": "Lisa Anderson",
+      "overall_score": 71.38,
+      "component_scores": {
+        "skills": 63.77,
+        "experience": 100.0,
+        "education": 100.0,
+        "location": 30.0
+      },
+      "candidate_data": {
+        "email": "lisa.a@email.com",
+        "phone": "+1-555-0106",
+        "skills": [
+          "Python",
+          "R",
+          "Web Services",
+          "Leadership",
+          "Go",
+          "Git",
+          "Testing",
+          "PostgreSQL",
+          "Django",
+          "REST API",
+          "SQL",
+          "Redis"
+        ],
+        "education": "Master",
+        "experience_years": 7
+      }
+    },
+    {
+      "candidate_name": "Michael Chen",
+      "overall_score": 67.7,
+      "component_scores": {
+        "skills": 56.39,
+        "experience": 100.0,
+        "education": 100.0,
+        "location": 30.0
+      },
+      "candidate_data": {
+        "email": "m.chen@email.com",
+        "phone": "+1-555-0103",
+        "skills": [
+          "Computer Vision",
+          "Python",
+          "Deep Learning",
+          "R",
+          "PyTorch",
+          "XML",
+          "NLP"
+        ],
+        "education": "PhD",
+        "experience_years": 8
+      }
+    },
+    {
+      "candidate_name": "Jennifer Wilson",
+      "overall_score": 65.63,
+      "component_scores": {
+        "skills": 52.26,
+        "experience": 100.0,
+        "education": 100.0,
+        "location": 30.0
+      },
+      "candidate_data": {
+        "email": "j.wilson@email.com",
+        "phone": "+1-555-0108",
+        "skills": [
+          "SQL",
+          "Data Visualization",
+          "Python",
+          "R"
+        ],
+        "education": "Master",
+        "experience_years": 5
+      }
+    },
+    {
+      "candidate_name": "Sarah Johnson",
+      "overall_score": 59.02,
+      "component_scores": {
+        "skills": 47.04,
+        "experience": 80.0,
+        "education": 100.0,
+        "location": 30.0
+      },
+      "candidate_data": {
+        "email": "sarah.j@email.com",
+        "phone": "+1-555-0102",
+        "skills": [
+          "R",
+          "JavaScript",
+          "Java",
+          "Go",
+          "Node.js",
+          "Git",
+          "React",
+          "MongoDB",
+          "REST API",
+          "Slack",
+          "Agile"
+        ],
+        "education": "Master",
+        "experience_years": 3
+      }
+    },
+    {
+      "candidate_name": "David Martinez",
+      "overall_score": 57.03,
+      "component_scores": {
+        "skills": 29.07,
+        "experience": 100.0,
+        "education": 100.0,
+        "location": 50.0
+      },
+      "candidate_data": {
+        "email": "d.martinez@email.com",
+        "phone": "+1-555-0105",
+        "skills": [
+          "Microservices",
+          "R",
+          "Web Services",
+          "Java",
+          "Spring Boot",
+          "Kubernetes",
+          "CI/CD",
+          "AWS",
+          "Docker"
+        ],
+        "education": "Master",
+        "experience_years": 6
+      }
+    },
+    {
+      "candidate_name": "Robert Taylor",
+      "overall_score": 45.9,
+      "component_scores": {
+        "skills": 32.81,
+        "experience": 50.0,
+        "education": 100.0,
+        "location": 30.0
+      },
+      "candidate_data": {
+        "email": "r.taylor@email.com",
+        "phone": "+1-555-0107",
+        "skills": [
+          "R",
+          "Vue.js",
+          "JavaScript",
+          "Java",
+          "HTML",
+          "Git",
+          "CSS"
+        ],
+        "education": "Master",
+        "experience_years": 2
+      }
+    }
+  ]
+}

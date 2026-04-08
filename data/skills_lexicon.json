@@ -1,0 +1,53 @@
+{
+  "programming_languages": [
+    "Python", "Java", "JavaScript", "C++", "C#", "Ruby", "PHP", "Swift", "Kotlin", "Go",
+    "TypeScript", "R", "MATLAB", "Scala", "Rust", "Perl", "Shell", "Bash", "SQL", "HTML", "CSS"
+  ],
+  "frameworks": [
+    "React", "Angular", "Vue.js", "Django", "Flask", "Spring Boot", "Node.js", "Express.js",
+    "FastAPI", "Laravel", "Ruby on Rails", "ASP.NET", "TensorFlow", "PyTorch", "Keras",
+    "Scikit-learn", "Pandas", "NumPy", "jQuery", "Bootstrap", "Tailwind CSS"
+  ],
+  "databases": [
+    "MySQL", "PostgreSQL", "MongoDB", "Oracle", "SQL Server", "SQLite", "Redis", "Cassandra",
+    "DynamoDB", "Firebase", "Elasticsearch", "Neo4j", "MariaDB"
+  ],
+  "cloud_platforms": [
+    "AWS", "Azure", "Google Cloud", "GCP", "Heroku", "DigitalOcean", "IBM Cloud",
+    "Oracle Cloud", "Alibaba Cloud"
+  ],
+  "devops": [
+    "Docker", "Kubernetes", "Jenkins", "GitLab CI", "GitHub Actions", "Terraform",
+    "Ansible", "Chef", "Puppet", "Nagios", "Prometheus", "Grafana", "CI/CD"
+  ],
+  "data_science": [
+    "Machine Learning", "Deep Learning", "Data Analysis", "Data Visualization",
+    "Natural Language Processing", "NLP", "Computer Vision", "Big Data", "Hadoop",
+    "Spark", "Data Mining", "Statistical Analysis", "A/B Testing", "Feature Engineering"
+  ],
+  "soft_skills": [
+    "Leadership", "Team Management", "Communication", "Problem Solving", "Critical Thinking",
+    "Project Management", "Agile", "Scrum", "Time Management", "Collaboration",
+    "Presentation Skills", "Analytical Skills", "Creativity", "Adaptability"
+  ],
+  "tools": [
+    "Git", "GitHub", "GitLab", "Bitbucket", "JIRA", "Confluence", "Slack", "Trello",
+    "VS Code", "IntelliJ", "Eclipse", "Postman", "Figma", "Adobe XD", "Photoshop"
+  ],
+  "web_technologies": [
+    "REST API", "GraphQL", "Microservices", "Web Services", "SOAP", "JSON", "XML",
+    "OAuth", "JWT", "WebSockets", "HTTP", "HTTPS"
+  ],
+  "mobile": [
+    "Android", "iOS", "React Native", "Flutter", "Xamarin", "Ionic", "Mobile Development"
+  ],
+  "security": [
+    "Cybersecurity", "Network Security", "Penetration Testing", "Encryption",
+    "SSL/TLS", "Firewall", "VPN", "Security Auditing"
+  ],
+  "other": [
+    "Linux", "Unix", "Windows", "MacOS", "Networking", "TCP/IP", "DNS",
+    "Load Balancing", "Caching", "Performance Optimization", "Testing", "Unit Testing",
+    "Integration Testing", "Debugging", "Code Review", "Documentation"
+  ]
+}

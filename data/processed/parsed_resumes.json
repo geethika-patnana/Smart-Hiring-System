@@ -1,0 +1,162 @@
+[
+  {
+    "filename": "David_Martinez.pdf",
+    "name": "David Martinez",
+    "email": "d.martinez@email.com",
+    "phone": "+1-555-0105",
+    "address": null,
+    "skills": [
+      "R",
+      "Java",
+      "CI/CD",
+      "Microservices",
+      "AWS",
+      "Spring Boot",
+      "Docker",
+      "Kubernetes",
+      "Web Services"
+    ],
+    "education": "Master",
+    "experience_years": 6,
+    "raw_text": "David Martinez d.martinez@email.com  +1-555-0105  Austin, TX EDUCATION Bachelor in Computer Science PROFESSIONAL EXPERIENCE Total Experience: 6 years Senior Backend Engineer - Cloud Services Inc (2020-Present) Backend Developer - Enterprise Solutions (2018-2020) SKILLS Java, Spring Boot, Microservices, Kubernetes, AWS, CICD, Docker"
+  },
+  {
+    "filename": "Emily_Davis.pdf",
+    "name": "Emily Davis",
+    "email": "emily.davis@email.com",
+    "phone": "+1-555-0104",
+    "address": "Boston",
+    "skills": [
+      "Spark",
+      "SQL",
+      "R",
+      "Statistical Analysis",
+      "Python",
+      "Big Data"
+    ],
+    "education": "Master",
+    "experience_years": 4,
+    "raw_text": "Emily Davis emily.davis@email.com  +1-555-0104  Boston, MA EDUCATION Master in Data Science PROFESSIONAL EXPERIENCE Total Experience: 4 years Data Analyst - Finance Corp (2021-Present) Junior Analyst - Consulting Group (2020-2021) SKILLS Python, R, Statistical Analysis, Tableau, SQL, Big Data, Spark"
+  },
+  {
+    "filename": "Jennifer_Wilson.pdf",
+    "name": "Jennifer Wilson",
+    "email": "j.wilson@email.com",
+    "phone": "+1-555-0108",
+    "address": "Portland",
+    "skills": [
+      "Data Visualization",
+      "Python",
+      "SQL",
+      "R"
+    ],
+    "education": "Master",
+    "experience_years": 5,
+    "raw_text": "Jennifer Wilson j.wilson@email.com  +1-555-0108  Portland, OR EDUCATION Master in Business Analytics PROFESSIONAL EXPERIENCE Total Experience: 5 years Business Analyst - Retail Corp (2021-Present) Data Analyst - Marketing Agency (2019-2021) SKILLS Data Visualization, Power BI, SQL, Python, Excel, Business Intelligence, Analytics"
+  },
+  {
+    "filename": "John_Smith.pdf",
+    "name": "John Smith",
+    "email": "john.smith@email.com",
+    "phone": "+1-555-0101",
+    "address": "New York",
+    "skills": [
+      "SQL",
+      "R",
+      "Data Analysis",
+      "AWS",
+      "Machine Learning",
+      "Python",
+      "TensorFlow",
+      "Docker"
+    ],
+    "education": "Master",
+    "experience_years": 5,
+    "raw_text": "John Smith john.smith@email.com  +1-555-0101  New York, NY EDUCATION Master in Computer Science PROFESSIONAL EXPERIENCE Total Experience: 5 years Senior Data Scientist - Tech Corp (2021-Present) Data Scientist - Analytics Inc (2019-2021) SKILLS Python, Machine Learning, TensorFlow, AWS, Docker, SQL, Data Analysis"
+  },
+  {
+    "filename": "Lisa_Anderson.pdf",
+    "name": "Lisa Anderson",
+    "email": "lisa.a@email.com",
+    "phone": "+1-555-0106",
+    "address": "Chicago",
+    "skills": [
+      "SQL",
+      "R",
+      "Go",
+      "Redis",
+      "Testing",
+      "Git",
+      "Leadership",
+      "Python",
+      "PostgreSQL",
+      "REST API",
+      "Django",
+      "Web Services"
+    ],
+    "education": "Master",
+    "experience_years": 7,
+    "raw_text": "Lisa Anderson lisa.a@email.com  +1-555-0106  Chicago, IL EDUCATION Master in Software Engineering PROFESSIONAL EXPERIENCE Total Experience: 7 years Tech Lead - Digital Platform (2022-Present) Senior Developer - Web Services (2019-2022) SKILLS Python, Django, PostgreSQL, Redis, REST API, Testing, Leadership"
+  },
+  {
+    "filename": "Michael_Chen.pdf",
+    "name": "Michael Chen",
+    "email": "m.chen@email.com",
+    "phone": "+1-555-0103",
+    "address": "Seattle",
+    "skills": [
+      "Computer Vision",
+      "PyTorch",
+      "R",
+      "XML",
+      "Deep Learning",
+      "NLP",
+      "Python"
+    ],
+    "education": "PhD",
+    "experience_years": 8,
+    "raw_text": "Michael Chen m.chen@email.com  +1-555-0103  Seattle, WA EDUCATION PhD in Artificial Intelligence PROFESSIONAL EXPERIENCE Total Experience: 8 years AI Research Scientist - AI Labs (2020-Present) ML Engineer - Innovation Tech (2016-2020) SKILLS Deep Learning, PyTorch, NLP, Computer Vision, Python, Research, Publications"
+  },
+  {
+    "filename": "Robert_Taylor.pdf",
+    "name": "Robert Taylor",
+    "email": "r.taylor@email.com",
+    "phone": "+1-555-0107",
+    "address": "Denver",
+    "skills": [
+      "CSS",
+      "R",
+      "JavaScript",
+      "Java",
+      "Git",
+      "Vue.js",
+      "HTML"
+    ],
+    "education": "Master",
+    "experience_years": 2,
+    "raw_text": "Robert Taylor r.taylor@email.com  +1-555-0107  Denver, CO EDUCATION Bachelor in Information Technology PROFESSIONAL EXPERIENCE Total Experience: 2 years Frontend Developer - Creative Agency (2023-Present) Junior Developer - Design Studio (2022-2023) SKILLS JavaScript, Vue.js, HTML, CSS, Git, Responsive Design, UIUX"
+  },
+  {
+    "filename": "Sarah_Johnson.pdf",
+    "name": "Sarah Johnson",
+    "email": "sarah.j@email.com",
+    "phone": "+1-555-0102",
+    "address": "San Francisco",
+    "skills": [
+      "R",
+      "Slack",
+      "Go",
+      "Agile",
+      "JavaScript",
+      "Java",
+      "MongoDB",
+      "Git",
+      "React",
+      "REST API",
+      "Node.js"
+    ],
+    "education": "Master",
+    "experience_years": 3,
+    "raw_text": "Sarah Johnson sarah.j@email.com  +1-555-0102  San Francisco, CA EDUCATION Bachelor in Software Engineering PROFESSIONAL EXPERIENCE Total Experience: 3 years Full Stack Developer - WebDev Solutions (2022-Present) Frontend Developer - StartupXYZ (2021-2022) SKILLS JavaScript, React, Node.js, MongoDB, REST API, Git, Agile"
+  }
+]

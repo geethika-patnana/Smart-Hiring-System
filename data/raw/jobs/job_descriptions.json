@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Senior Machine Learning Engineer",
+    "company": "AI Innovations Inc",
+    "location": "San Francisco, CA",
+    "experience_required": 5,
+    "education_required": "Master",
+    "description": "We are seeking an experienced ML Engineer to develop and deploy machine learning models at scale.",
+    "required_skills": [
+      "Python",
+      "Machine Learning",
+      "TensorFlow",
+      "PyTorch",
+      "AWS",
+      "Docker",
+      "Kubernetes"
+    ],
+    "preferred_skills": [
+      "Deep Learning",
+      "NLP",
+      "MLOps",
+      "Spark"
+    ]
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "WebTech Solutions",
+    "location": "Remote",
+    "experience_required": 3,
+    "education_required": "Bachelor",
+    "description": "Join our team to build modern web applications using cutting-edge technologies.",
+    "required_skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "REST API",
+      "Git"
+    ],
+    "preferred_skills": [
+      "TypeScript",
+      "GraphQL",
+      "Docker",
+      "AWS"
+    ]
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Analytics Pro",
+    "location": "New York, NY",
+    "experience_required": 4,
+    "education_required": "Master",
+    "description": "Looking for a Data Scientist to extract insights from complex datasets and build predictive models.",
+    "required_skills": [
+      "Python",
+      "R",
+      "Machine Learning",
+      "SQL",
+      "Statistical Analysis",
+      "Data Visualization"
+    ],
+    "preferred_skills": [
+      "Big Data",
+      "Spark",
+      "Tableau",
+      "Deep Learning"
+    ]
+  }
+]

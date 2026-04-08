@@ -1,0 +1,18 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+plotly
+streamlit
+tqdm
+joblib
+
+# NLP Dependencies
+sentence-transformers
+pdfplumber
+spacy
+fuzzywuzzy
+python-Levenshtein
+reportlab
+Pillow

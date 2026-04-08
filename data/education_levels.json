@@ -1,0 +1,39 @@
+{
+  "degrees": [
+    {
+      "name": "PhD",
+      "aliases": ["Doctor of Philosophy", "Doctorate", "Ph.D", "Doctoral"],
+      "level": 5
+    },
+    {
+      "name": "Master",
+      "aliases": ["Masters", "Master's", "MSc", "MS", "MA", "MBA", "M.Sc", "M.S"],
+      "level": 4
+    },
+    {
+      "name": "Engineer",
+      "aliases": ["Engineering Degree", "Engineer Diploma", "Ingenieur"],
+      "level": 4
+    },
+    {
+      "name": "Bachelor",
+      "aliases": ["Bachelor's", "BSc", "BS", "BA", "B.Sc", "B.S", "Licence", "License"],
+      "level": 3
+    },
+    {
+      "name": "Associate",
+      "aliases": ["Associate Degree", "AS", "AA", "A.S", "A.A"],
+      "level": 2
+    },
+    {
+      "name": "Diploma",
+      "aliases": ["Professional Diploma", "Technical Diploma", "Certificate"],
+      "level": 1
+    },
+    {
+      "name": "High School",
+      "aliases": ["Secondary School", "Baccalaureate", "Bac", "High School Diploma"],
+      "level": 0
+    }
+  ]
+}
