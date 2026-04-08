@@ -120,16 +120,16 @@ streamlit run app.py
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-
+```
 ---
 
-**## 📊 Results & Performance**
+## 📊 Results & Performance
 
 - Reduced manual resume screening time
 - Improved candidate-job matching accuracy
 - Provides explainable ranking for better decisions
 
-### System Benefits
+## System Benefits
 
 - ⏱️ **Time Savings**: 80% reduction in screening time
 - 📈 **Scalability**: Process 1000+ resumes/hour
