@@ -146,3 +146,8 @@ streamlit run app.py
 - AI-based candidate recommendation system
 
 ---
+
+## 🔗 Links
+
+- Live Demo: https://smart-hiring-system-geethika.streamlit.app/
+
